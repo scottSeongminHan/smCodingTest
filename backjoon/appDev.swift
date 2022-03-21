@@ -7,7 +7,7 @@
 
 import Foundation
 
-func q1110() {
+func q1110() { 
     let input = Int(readLine()!)!
     
     var orig = input
